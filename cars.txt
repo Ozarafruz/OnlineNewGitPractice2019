@@ -4,4 +4,6 @@ Tesla
 BMW X6
 Kia Optima
 Mercedes S500
+BMW 3
+Mazda 3
 Lexus GX470
