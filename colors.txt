@@ -2,3 +2,5 @@ black
 red
 yellow
 pink
+green
+white
