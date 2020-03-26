@@ -1,7 +1,4 @@
 black
 red
-<<<<<<< HEAD
 yellow
-=======
 pink
->>>>>>> 710cb373464ba8bd7efd6140e30fd2fff995eca3
